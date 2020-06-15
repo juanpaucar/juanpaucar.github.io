@@ -3,18 +3,15 @@ module.exports = {
     title: `Scattered Functional Thoughts`,
     author: {
       name: `Juan C. Paucar.`,
-      summary: `I love coding and computers.`,
+      summary: `I love coding and computers and I'm especially interested in
+      functional programming and challenges in software development`,
     },
     description: `A personal blog for what coding and programming stuff, mostly related to functional programming`,
     siteUrl: `https://juancarlos.io/`,
-    social: [
-      {
-        twitter: `juxncxrlosp`
-      },
-      {
+    social: {
+        twitter: `juxncxrlosp`,
         github: `juanpaucar`
       }
-    ]
   },
   plugins: [
     {
