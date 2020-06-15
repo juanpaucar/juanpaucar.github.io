@@ -7,9 +7,14 @@ module.exports = {
     },
     description: `A personal blog for what coding and programming stuff, mostly related to functional programming`,
     siteUrl: `https://juancarlos.io/`,
-    social: {
-      twitter: `juxncxrlosp`,
-    },
+    social: [
+      {
+        twitter: `juxncxrlosp`
+      },
+      {
+        github: `juanpaucar`
+      }
+    ]
   },
   plugins: [
     {
