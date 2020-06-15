@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Scattered Functional Thoughts`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Juan C. Paucar.`,
+      summary: `I love coding and computers.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A personal blog for what coding and programming stuff, mostly related to functional programming`,
+    siteUrl: `https://juancarlos.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `juxncxrlosp`,
     },
   },
   plugins: [
